@@ -27,6 +27,12 @@
 
 点击查看：[有哪996个公众号值得订阅？](https://github.com/lirenchong/FollowTheWeChat/blob/master/ListOfDingyuehao.md)
 
+**进阶协作操作**：Pull Requests功能
+
+登录Github并打开[有哪996个公众号值得订阅？](https://github.com/lirenchong/FollowTheWeChat/blob/master/ListOfDingyuehao.md)，点击
+
+
+
 
 
 **Change Log**
