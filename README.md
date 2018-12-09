@@ -1,5 +1,5 @@
 # FollowTheWeChat
-利用最大信息熵原理，扩大信息涉及面。**有哪些微信公众号值得订阅？**
+利用最大信息熵原理，扩大信息涉及面。**有哪4个（或更多）微信公众号值得订阅？**
 
 基于每个人不同的行业、职业和年龄、性别、兴趣、地域等各种因素，我们关注的焦点也各不相同，订阅的微信公众号口味也会有非常大的差异。
 
@@ -17,7 +17,7 @@
 
 **#领域标签#规则：**
 
-#领域标签#设置尽量不过度细化，只是作为一个参考。尽量选用人们大脑能第一反应就理解的「基本层次范畴」，少量选用过于笼统的「上位层次范畴」，基本不用颗粒度过细的「下位层次范畴」。举例：
+「**领域标签**」设置尽量不过度细化，只是作为一个参考。尽量选用人们大脑能第一反应就理解的「基本层次范畴」，少量选用过于笼统的「上位层次范畴」，基本不用颗粒度过细的「下位层次范畴」。举例：
 
 - 上位层次范畴：交通工具
 - **基本层次范畴**：汽车
@@ -27,14 +27,35 @@
 
 点击查看：[有哪996个公众号值得订阅？](https://github.com/lirenchong/FollowTheWeChat/blob/master/ListOfDingyuehao.md)
 
-**进阶协作操作**：Pull Requests功能
+**进阶协作操作**：使用更酷的Pull Requests功能，按以下操作
 
-登录Github并打开[有哪996个公众号值得订阅？](https://github.com/lirenchong/FollowTheWeChat/blob/master/ListOfDingyuehao.md)，点击
+1. 登录Github并打开链接： [有哪996个公众号值得订阅？](https://github.com/lirenchong/FollowTheWeChat/blob/master/ListOfDingyuehao.md)
 
+2. 点击右侧「Edit this file」按钮
 
+	![](http://lirenchong.jirankeji.com/201812091751_807.png)
+
+3. 在编辑框的指定位置增加条目
+
+	![](http://lirenchong.jirankeji.com/201812091753_769.png)
+
+4. 在`Update ListOfDingyuehao.md`填写本次修改的主题
+
+5. 在`Add an optional extended description...`填写本次修改的说明
+
+6. 点击「Propose file change」按钮
+
+	![](http://lirenchong.jirankeji.com/201812091754_517.png)
+
+7. 点击左侧「Create pull requests」按钮
+
+	![](http://lirenchong.jirankeji.com/201812091754_447.png)
+
+8. 等待修订确认后，即可浏览到更新
 
 
 
 **Change Log**
 
-- 2018-12-9 初始化建立，并设置格式与标签规则
+- 2018-12-9 17:56:07 增加Pull Requests的协作操作指南
+- 2018-12-9 初始化建立，设置格式与标签规则
