@@ -57,9 +57,13 @@
 
 9. 等待修订确认后，即可浏览到更新
 
+## 附录
 
+1. [不做韭菜的最大熵原则](https://github.com/lirenchong/FollowTheWeChat/blob/master/MaximizingTheEntropy.md) 为什么不直接查各种排行榜的原因分析
+2. [交叉验证：当公众号遇到李鬼](https://github.com/lirenchong/FollowTheWeChat/blob/master/CrossValidation.md)
 
 **Change Log**
 
+- 2018-12-9 20:52:28 增补最大熵目的及交叉验证
 - 2018-12-9 17:56:07 增加Pull Requests的协作操作指南
 - 2018-12-9 初始化建立，设置格式与标签规则
