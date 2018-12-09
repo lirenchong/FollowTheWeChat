@@ -31,27 +31,31 @@
 
 1. 登录Github并打开链接： [有哪996个公众号值得订阅？](https://github.com/lirenchong/FollowTheWeChat/blob/master/ListOfDingyuehao.md)
 
-2. 点击右侧「Edit this file」按钮
+2. 点击右上角「Fork」仓库
+
+	![](http://lirenchong.jirankeji.com/201812091936_399.png)
+
+3. 点击右侧「Edit this file」按钮
 
 	![](http://lirenchong.jirankeji.com/201812091751_807.png)
 
-3. 在编辑框的指定位置增加条目
+4. 在编辑框的指定位置增加条目
 
 	![](http://lirenchong.jirankeji.com/201812091753_769.png)
 
-4. 在`Update ListOfDingyuehao.md`填写本次修改的主题
+5. 在`Update ListOfDingyuehao.md`填写本次修改的主题
 
-5. 在`Add an optional extended description...`填写本次修改的说明
+6. 在`Add an optional extended description...`填写本次修改的说明
 
-6. 点击「Propose file change」按钮
+7. 点击「Propose file change」按钮
 
 	![](http://lirenchong.jirankeji.com/201812091754_517.png)
 
-7. 点击左侧「Create pull requests」按钮
+8. 点击左侧「Create pull requests」按钮
 
 	![](http://lirenchong.jirankeji.com/201812091754_447.png)
 
-8. 等待修订确认后，即可浏览到更新
+9. 等待修订确认后，即可浏览到更新
 
 
 
